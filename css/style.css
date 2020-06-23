@@ -12,7 +12,7 @@
 * {
   margin: 0;
   padding: 0px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', Arial, Helvetica;
 }
 
 body {
@@ -60,8 +60,22 @@ html, body {
   text-align: center
 }
 
+a {
+  margin-top: 20px;
+  font-family: Helvetica;
+  color:salmon;
+}
+
+.mm{
+  margin-top: 20px;
+  font-size: x-large;
+  font-family: Helvetica;
+  color: red;
+
+}
 .mt {
-  margin-top: 50px;
+  margin-top: 20px;
+  color:black;
 }
 
 .mb {
